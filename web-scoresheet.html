@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学生成绩管理系统（Web版）</title>
+    <link rel="stylesheet" href="./bootstrap-3.3.7-dist/css/bootstrap.css">
+    <script src="./bootstrap-3.3.7-dist/js/jquery.min.js"></script>
+    <script src="./bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="./web-scoresheet-css.css"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // execute when DOM content is loaded
+            document.getElementById('testform').addEventListener('submit', function (event) {
+                event.preventDefault();
+                return false;
+            })
+        });
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // execute when DOM content is loaded
+            document.getElementById('scoresheet').addEventListener('submit', function (event) {
+                event.preventDefault();
+                return false;
+            })
+        });
+    </script>
+
+
+</head>
+<body>
+
+<h1 align="center">学生成绩单</h1>
+<p>&nbsp;</p>
+<div>
+    <table class="table table-bordered " id="table">
+        <tr>
+            <th>姓名</th>
+            <th>数学</th>
+            <th>语文</th>
+            <th>英语</th>
+            <th>编程</th>
+        </tr>
+        <tr>
+            <td>张三</td>
+            <td>75</td>
+            <td>95</td>
+            <td>80</td>
+            <td>80</td>
+        </tr>
+
+    </table>
+</div>
+
+<h3><br><br>添加一条学生成绩信息</h3>
+
+<form name="testform" onsubmit="printSomething()" id="testform">
+   <table class="table" border="0">
+       <tr>
+           <td>
+               姓名
+               <input type="text" name="name" id="name">
+           </td>
+           <td>
+               学号
+               <input type="text" name="id" id="id">
+           </td>
+           <td>
+               民族
+               <input type="text" name="nation" id="nation">
+           </td>
+           <td>
+               班级
+               <input type="text" name="class" id="klass">
+           </td>
+       </tr>
+       <tr>
+           <td>
+               数学
+               <input type="text" name="mat" id="mat">
+           </td>
+           <td>
+               语文
+               <input type="text" name="chi" id="chi">
+           </td>
+           <td>
+               英语
+               <input type="text" name="eng" id="eng">
+           </td>
+           <td>
+               编程
+               <input type="text" name="pro" id="pro">
+           </td>
+       </tr>
+   </table>
+    <input type="submit" value="提交" >
+</form>
+
+<form name="scoresheet" onsubmit="printscoresheet()" id="scoresheet">
+    <h3>
+        查询学生成绩(学号, 学号,...)
+        <input type="text"  id="sutdentIDs">
+
+    </h3>
+    <input type="submit" value="查询" >
+
+</form>
+
+<script src="./scoresheet.js"></script>
+</body>
+</html>
