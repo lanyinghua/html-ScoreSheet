@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d91ee612-725e-4f36-99b5-d9d3eedcf6f5" name="Default" comment="" />
+    <list default="true" id="d91ee612-725e-4f36-99b5-d9d3eedcf6f5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eng-America.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scoresheet2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scoresheet.js" afterPath="$PROJECT_DIR$/scoresheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-scoresheet-css.css" afterPath="$PROJECT_DIR$/web-scoresheet-css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-scoresheet.html" afterPath="$PROJECT_DIR$/web-scoresheet.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,13 +22,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web-scoresheet.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web-scoresheet.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-scoresheet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="105" column="37" lean-forward="false" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+            <state relative-caret-position="188">
+              <caret line="194" column="11" lean-forward="false" selection-start-line="194" selection-start-column="11" selection-end-line="194" selection-end-column="11" />
               <folding>
-                <element signature="e#1089#1095#1" expanded="true" />
+                <element signature="e#1235#1241#1" expanded="true" />
+                <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5676#5682#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scoresheet2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scoresheet2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="n#!!doc;n#deleteinfo#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -30,41 +55,41 @@
       <file leaf-file-name="scoresheet.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scoresheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="49" column="2" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="53" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pra 07.25.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pra 07.25.js">
+      <file leaf-file-name="web-scoresheet-css.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-scoresheet-css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="216">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bootstrap_practise_starter/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1134">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#shuixianhua#0" expanded="false" />
-                <element signature="n#!!block;n#shuixianhua#0" expanded="false" />
+                <element signature="e#8002#8008#1" expanded="true" />
+                <element signature="e#8102#8108#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../app_scoresheep/main.js">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bootstrap_practise_starter/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306">
-              <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deletelater.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../app_scoresheep/deletelater.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="76" column="18" lean-forward="false" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+            <state relative-caret-position="324">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -81,14 +106,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../bootstrap_practise_starter/index.html" />
-        <option value="$PROJECT_DIR$/web-scoresheet-css.css" />
-        <option value="$PROJECT_DIR$/web-scoresheet.html" />
-        <option value="$PROJECT_DIR$/scoresheet.js" />
         <option value="$PROJECT_DIR$/pra 07.25.js" />
+        <option value="$PROJECT_DIR$/../app_scoresheep/main.js" />
+        <option value="$PROJECT_DIR$/scoresheet.js" />
+        <option value="$PROJECT_DIR$/pra 07.26.js" />
+        <option value="$PROJECT_DIR$/web-scoresheet-css.css" />
+        <option value="$PROJECT_DIR$/scoresheet2.js" />
+        <option value="$PROJECT_DIR$/web-scoresheet.html" />
       </list>
     </option>
   </component>
@@ -105,13 +136,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="627" />
-    <option name="y" value="24" />
-    <option name="width" value="974" />
-    <option name="height" value="744" />
+    <option name="x" value="533" />
+    <option name="y" value="68" />
+    <option name="width" value="799" />
+    <option name="height" value="716" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -124,12 +156,29 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07.24 web scoresheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07.24 web scoresheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v8.1.3/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app_scoresheep/main.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scoresheet2.js" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -149,11 +198,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.pra 07.25.js">
+  <component name="RunManager" selected="Node.js.pra 07.26.js">
     <configuration default="false" name="scoresheet.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="scoresheet.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="false" name="pra 07.25.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="pra 07.25.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="pra 07.26.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="pra 07.26.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -222,14 +274,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Node.js.scoresheet.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.pra 07.25.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.pra 07.26.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.pra 07.25.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.scoresheet.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.pra 07.26.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.pra 07.25.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.scoresheet.js" />
       </list>
     </recent_temporary>
   </component>
@@ -244,22 +298,22 @@
       <option name="presentableId" value="Default" />
       <updated>1500877737795</updated>
       <workItem from="1500877739202" duration="12595000" />
-      <workItem from="1500949099123" duration="7899000" />
+      <workItem from="1500949099123" duration="21121000" />
+      <workItem from="1501033067723" duration="19978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20494000" />
+    <option name="totallyTimeSpent" value="53694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="627" y="24" width="974" height="744" extended-state="4" />
-    <editor active="true" />
+    <frame x="533" y="68" width="799" height="716" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19837399" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19812793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -297,19 +351,68 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web-scoresheet.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="48" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="48" />
+          <folding>
+            <element signature="e#1235#1241#1" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5676#5682#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app_scoresheep/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app_scoresheep/deletelater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoresheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-scoresheet.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1089#1095#1" expanded="true" />
+            <element signature="e#1235#1241#1" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5676#5682#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -326,7 +429,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1782">
           <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#8002#8008#1" expanded="true" />
+            <element signature="e#8102#8108#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -338,62 +444,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-scoresheet-css.css">
+    <entry file="file://$PROJECT_DIR$/pra 07.25.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../app_scoresheep/deletelater.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="76" column="18" lean-forward="false" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        <state relative-caret-position="450">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app_scoresheep/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pra 07.26.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="34" column="41" lean-forward="false" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc;n#rangeBetween#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bootstrap_practise_starter/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../bootstrap_practise_starter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-scoresheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="105" column="37" lean-forward="false" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+        <state relative-caret-position="1134">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
-            <element signature="e#1089#1095#1" expanded="true" />
+            <element signature="e#8002#8008#1" expanded="true" />
+            <element signature="e#8102#8108#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app_scoresheep/main.js">
+    <entry file="file://$PROJECT_DIR$/web-scoresheet-css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="49" column="2" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="53" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pra 07.25.js">
+    <entry file="file://$PROJECT_DIR$/scoresheet2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
           <folding>
-            <element signature="n#!!doc;n#shuixianhua#0" expanded="false" />
-            <element signature="n#!!block;n#shuixianhua#0" expanded="false" />
+            <element signature="n#!!doc;n#deleteinfo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-scoresheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="194" column="11" lean-forward="false" selection-start-line="194" selection-start-column="11" selection-end-line="194" selection-end-column="11" />
+          <folding>
+            <element signature="e#1235#1241#1" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5676#5682#1" expanded="true" />
           </folding>
         </state>
       </provider>
